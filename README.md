@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This is the resulting react app from the [Modern React from the Beginnning Tutorial](https://codingthesmartway.com/modern-react-from-the-beginning-course/)
+
 ## Available Scripts
 
 In the project directory, you can run:
